@@ -20,8 +20,8 @@
     "helmet": "^3.21.1",
     "morgan": "^1.9.1"
   },
-  "globals": {
-    "supertest": "true",
+  "devDependencies": {
+    "supertest": "^4.0.2",
     "expect": "true"
   }
 }
